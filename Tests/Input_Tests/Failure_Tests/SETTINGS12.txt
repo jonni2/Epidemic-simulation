@@ -1,0 +1,8 @@
+base 10
+height 30
+
+quarantine_threshold 0.05
+
+heal_threshold 2.3
+infect_threshold 0.06
+death_threshold -0.75
