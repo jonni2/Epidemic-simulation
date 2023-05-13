@@ -2,7 +2,7 @@
 #define EVOLVE_HPP
 
 #include "../Board_Utilities/board.hpp"
-#include "near_infect.hpp"
+// #include "near_infect.hpp"
 #include "time_function.hpp"
 #include <cmath>
 #include <random>

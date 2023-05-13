@@ -1,9 +1,0 @@
-/mnt/c/Users/User/Desktop/Epidemic-simulation/build/CMakeFiles/Epidemic_Simulator.exe.dir
-/mnt/c/Users/User/Desktop/Epidemic-simulation/build/CMakeFiles/Run_Board_Tests.exe.dir
-/mnt/c/Users/User/Desktop/Epidemic-simulation/build/CMakeFiles/Run_Input_Tests.exe.dir
-/mnt/c/Users/User/Desktop/Epidemic-simulation/build/CMakeFiles/Run_Evolve_Tests.exe.dir
-/mnt/c/Users/User/Desktop/Epidemic-simulation/build/CMakeFiles/Run_Time_Function_Tests.exe.dir
-/mnt/c/Users/User/Desktop/Epidemic-simulation/build/CMakeFiles/Run_Whole_Program_Tests.exe.dir
-/mnt/c/Users/User/Desktop/Epidemic-simulation/build/CMakeFiles/Run_Global_Tests.exe.dir
-/mnt/c/Users/User/Desktop/Epidemic-simulation/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/User/Desktop/Epidemic-simulation/build/CMakeFiles/rebuild_cache.dir

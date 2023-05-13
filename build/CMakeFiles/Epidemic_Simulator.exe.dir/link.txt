@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Epidemic_Simulator.exe.dir/main.cpp.o CMakeFiles/Epidemic_Simulator.exe.dir/Board_Utilities/board.cpp.o CMakeFiles/Epidemic_Simulator.exe.dir/Board_Evolution/evolve.cpp.o CMakeFiles/Epidemic_Simulator.exe.dir/Board_Evolution/step.cpp.o -o Epidemic_Simulator.exe  -fsanitize=address 
